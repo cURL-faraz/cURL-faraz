@@ -54,9 +54,10 @@ A practical retail analytics project focused on data cleaning, EDA, visualizatio
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cURL-faraz&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cURL-faraz&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://cheesits456-readme-stats.vercel.app/api?username=cURL-faraz&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" height="165" alt="Faraz's GitHub Stats" />
+  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cURL-faraz&layout=compact" height="165" alt="Faraz's Top Languages" />
 </p>
+
 
 ## 🔗 Connect
 
